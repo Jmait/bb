@@ -1,0 +1,195 @@
+body{
+			margin: 0;
+			background-color: white;
+			text-align:center;
+			font-family: 'Open Sans', sans-serif;
+			line-height: 140%;
+			font-size: 16px;
+}
+.bg-image{
+		height: 400px;
+		width: 100%;
+}
+li{
+	display: inline;
+	margin-top: 0;
+	
+}
+.ahmad-phone{
+			color: black;
+}
+a{
+	color: white;
+	text-decoration: none;
+	margin: 15px;
+	font-size: 20px;
+}
+a:hover{
+		color: gold;
+		background-color: black;
+}
+ul{
+	margin: 0
+}
+#heading{
+	
+	
+	color: white;
+	font-size: 50px;
+	font-weight: normal;
+	font-family: 'Dosis', sans-serif;
+}
+.main-paragragh{
+		font-size: 20px;
+		color: white;
+		
+}
+
+#nav{
+	position: absolute;
+	right: 70px;
+}
+.sub-container{
+	top: 130px;
+	position: absolute;
+	margin-left: 170px;
+
+}
+.middle-container{
+	position: absolute;
+	left: 5px;
+	border: solid 2px;
+	border-color: pink;
+	background-color: grey;
+	color: white;
+	display: inline-block;
+	margin-top: 10px;
+	margin-right: 50px;
+	padding: 15px;
+}
+.middle-container-2{
+	position: absolute;
+	left: 300px;
+	border: solid 2px;
+	border-color: pink;
+	background-color: grey;
+	color: white;
+	display: inline-block;
+	margin-top: 10px;
+	margin-left: 3px;
+	padding: 15px;
+}
+.middle-container-3{
+	position: absolute;
+	left: 595px;
+	border: solid 2px;
+	border-color: pink;
+	background-color: grey;
+	color: white;
+	display: inline-block;
+	margin-top: 10px;
+	margin-left: 200px;
+	padding: 10px;
+	height: 100px;
+}
+.email-name{
+		color: white;
+		font-size: 18px;
+}
+.attention{
+		background-color: red;
+		color: white;
+		width: 150px;
+		
+}
+.bottom-container{
+	position: relative;
+}
+.search-container{
+				position: absolute;
+				bottom: 380px;
+}
+.search-name{
+			color: white;
+			font-size: 15px;
+}
+.attention-2{
+			background-color: green;
+		color: white;
+}
+.about{
+		font-family: 'Open Sans', sans-serif;
+		font-size: 15px;
+		font-weight: lighter;
+		position: absolute;
+		top: 550px;
+		margin-left: 45px;
+		margin-right: 45px;
+}
+.about-2{
+		font-family: 'Open Sans', sans-serif;
+		font-size: 15px;
+		font-weight: lighter;
+		position: absolute;
+		top: 830px;
+		margin-left: 45px;
+		margin-right: 45px;
+}
+.about-3{
+		font-family: 'Open Sans', sans-serif;
+		font-size: 15px;
+		font-weight: lighter;
+		position: absolute;
+		top: 990px;
+		margin-left: 45px;
+		margin-right: 45px;
+}
+#footer{
+		background-color: red;
+		position: absolute;
+		top: 1190px;
+		left: 380px;
+		color: white;
+}
+/**Login form css**/
+.form-container{
+		border: solid 1px;
+		border-color: pink;
+		background-color: maroon;
+		color:white;
+		width: 370px;
+		margin: 0 auto 0 auto;
+}
+.search-container-login{
+			position: absolute;
+			top: 70px;
+			width:270px;
+}
+.login-details{
+		border: solid 1px;
+		border-color: pink;
+		background-color: maroon;
+		color:white;
+		width: 370px;
+		margin: 90px auto 0 auto;
+		padding-top: 3px;
+}
+.nav-2{
+		margin-right: 200px;
+}
+.login-image{
+	height: 80px;
+}
+.login-page{
+	border: solid 1px;
+		border-color: pink;
+		background-color: maroon;
+		color:white;
+		width: 370px;
+		margin: 90px auto 0 auto;
+		padding-top: 3px;
+}
+.success-mate{
+	height: 300px;
+	float: left;
+}
