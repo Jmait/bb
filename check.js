@@ -51,45 +51,45 @@ var myGuess4 = document.querySelector("#guess4").value;
 	//check if three numbers 123 is correct first
 	else if(  (myGuess1 == randomNumber1 || myGuess1 == randomNumber2 || myGuess1 == randomNumber3 || myGuess1 == randomNumber4 || myGuess1 == randomNumber5) &&    (myGuess2 == randomNumber1 || myGuess2 == randomNumber2 || myGuess2 == randomNumber3 || myGuess2 == randomNumber4 || myGuess2 == randomNumber5) &&     (myGuess3 == randomNumber1 || myGuess3 == randomNumber2 || myGuess3 == randomNumber3 || myGuess3 == randomNumber4 || myGuess3 == randomNumber5)    ){
 		
-		document.querySelector("h3").innerHTML ="Congratulations you got up to three. Kindly screenshot this to 07033411779 to claim your price. please note that you have to send it today. It expires in the next 24hours. Congratulations once again." + " " + myGuess1 + " " + myGuess2 + " " + myGuess3;
+		document.querySelector("h3").innerHTML ="Congratulations you got up to three" + " " + myGuess1 + " " + myGuess2 + " " + myGuess3;
 		
 		//check if three numbers is correct 124
 	}else if(  (myGuess1 == randomNumber1 || myGuess1 == randomNumber2 || myGuess1 == randomNumber3 || myGuess1 == randomNumber4 || myGuess1 == randomNumber5) &&    (myGuess2 == randomNumber1 || myGuess2 == randomNumber2 || myGuess2 == randomNumber3 || myGuess2 == randomNumber4 || myGuess2 == randomNumber5) &&     (myGuess4 == randomNumber1 || myGuess4 == randomNumber2 || myGuess4 == randomNumber3 || myGuess4 == randomNumber4 || myGuess4 == randomNumber5)    ){
 		
-		document.querySelector("h3").innerHTML ="Congratulations you got up to three. Kindly screenshot this to 07033411779 to claim your price. please note that you have to send it today. It expires in the next 24hours. Congratulations once again."
+		document.querySelector("h3").innerHTML ="Congratulations you got up to three"
 	//check 125
 	}else if(  (myGuess1 == randomNumber1 || myGuess1 == randomNumber2 || myGuess1 == randomNumber3 || myGuess1 == randomNumber4 || myGuess1 == randomNumber5) &&    (myGuess2 == randomNumber1 || myGuess2 == randomNumber2 || myGuess2 == randomNumber3 || myGuess2 == randomNumber4 || myGuess2 == randomNumber5) &&     (myGuess4 == randomNumber1 || myGuess5 == randomNumber2 || myGuess5 == randomNumber3 || myGuess5 == randomNumber4 || myGuess5 == randomNumber5)    ){
 		
-		document.querySelector("h3").innerHTML ="Congratulations you got up to three. Kindly screenshot this to 07033411779 to claim your price. please note that you have to send it today. It expires in the next 24hours. Congratulations once again."
+		document.querySelector("h3").innerHTML ="Congratulations you got up to three"
 	//check if it is 234
 	}else if(  (myGuess2 == randomNumber1 || myGuess2 == randomNumber2 || myGuess2 == randomNumber3 || myGuess2 == randomNumber4 || myGuess2 == randomNumber5) &&    (myGuess3 == randomNumber1 || myGuess3 == randomNumber2 || myGuess3 == randomNumber3 || myGuess3 == randomNumber4 || myGuess2 == randomNumber5) &&     (myGuess4 == randomNumber1 || myGuess4 == randomNumber2 || myGuess4 == randomNumber3 || myGuess4 == randomNumber4 || myGuess4 == randomNumber5)    ){
 		
-		document.querySelector("h3").innerHTML ="Congratulations you got up to three. Kindly screenshot this to 07033411779 to claim your price. please note that you have to send it today. It expires in the next 24hours. Congratulations once again."
+		document.querySelector("h3").innerHTML ="Congratulations you got up to three"
 	//check if any number in 235 is correct
 	}else if(  (myGuess2 == randomNumber1 || myGuess2 == randomNumber2 || myGuess2 == randomNumber3 || myGuess2 == randomNumber4 || myGuess2 == randomNumber5) &&    (myGuess3 == randomNumber1 || myGuess3 == randomNumber2 || myGuess3 == randomNumber3 || myGuess3 == randomNumber4 || myGuess3 == randomNumber5) &&     (myGuess5 == randomNumber1 || myGuess5 == randomNumber2 || myGuess5 == randomNumber3 || myGuess5 == randomNumber4 || myGuess5 == randomNumber5)    ){
 		
-		document.querySelector("h3").innerHTML ="Congratulations you got up to three. Kindly screenshot this to 07033411779 to claim your price. please note that you have to send it today. It expires in the next 24hours. Congratulations once again."
+		document.querySelector("h3").innerHTML ="Congratulations you got up to three"
 	//check if any number in 134 is correct
 	}else if(  (myGuess1 == randomNumber1 || myGuess1 == randomNumber2 || myGuess1 == randomNumber3 || myGuess1 == randomNumber4 || myGuess1 == randomNumber5) &&    (myGuess3 == randomNumber1 || myGuess3 == randomNumber2 || myGuess3 == randomNumber3 || myGuess3 == randomNumber4 || myGuess3 == randomNumber5) &&     (myGuess4 == randomNumber1 || myGuess4 == randomNumber2 || myGuess4 == randomNumber3 || myGuess4 == randomNumber4 || myGuess4 == randomNumber5)    ){
 		
-		document.querySelector("h3").innerHTML ="Congratulations you got up to three. Kindly screenshot this to 07033411779 to claim your price. please note that you have to send it today. It expires in the next 24hours. Congratulations once again.. Kindly screenshot this to 07033411779 to claim your price. please note that you have to send it today. It expires in the next 24hours. Congratulations once again."
+		document.querySelector("h3").innerHTML ="Congratulations you got up to three"
 	//check if any number in 135 is correct
 	}else if(  (myGuess1 == randomNumber1 || myGuess1 == randomNumber2 || myGuess1 == randomNumber3 || myGuess1 == randomNumber4 || myGuess1 == randomNumber5) &&    (myGuess3 == randomNumber1 || myGuess3 == randomNumber2 || myGuess3 == randomNumber3 || myGuess3 == randomNumber4 || myGuess3 == randomNumber5) &&     (myGuess5 == randomNumber1 || myGuess5 == randomNumber2 || myGuess5 == randomNumber3 || myGuess5 == randomNumber4 || myGuess5 == randomNumber5)    ){
 		
-		document.querySelector("h3").innerHTML ="Congratulations you got up to three. Kindly screenshot this to 07033411779 to claim your price. please note that you have to send it today. It expires in the next 24hours. Congratulations once again."
+		document.querySelector("h3").innerHTML ="Congratulations you got up to three"
 	//check if number in  145 is correct
 	}else if(  (myGuess1 == randomNumber1 || myGuess1 == randomNumber2 || myGuess1 == randomNumber3 || myGuess1 == randomNumber4 || myGuess1 == randomNumber5) &&    (myGuess4 == randomNumber1 || myGuess4 == randomNumber2 || myGuess4 == randomNumber4 || myGuess3 == randomNumber4 || myGuess3 == randomNumber5) &&     (myGuess5 == randomNumber1 || myGuess5 == randomNumber2 || myGuess5 == randomNumber3 || myGuess5 == randomNumber4 || myGuess5 == randomNumber5)    ){
 		
-		document.querySelector("h3").innerHTML ="Congratulations you got up to three. Kindly screenshot this to 07033411779 to claim your price. please note that you have to send it today. It expires in the next 24hours. Congratulations once again."
+		document.querySelector("h3").innerHTML ="Congratulations you got up to three"
 	
 	}//check 345
 	else if(  (myGuess3 == randomNumber1 || myGuess3 == randomNumber2 || myGuess3 == randomNumber3 || myGuess3 == randomNumber4 || myGuess3 == randomNumber5) &&    (myGuess4 == randomNumber1 || myGuess4 == randomNumber2 || myGuess4 == randomNumber4 || myGuess3 == randomNumber4 || myGuess3 == randomNumber5) &&     (myGuess5 == randomNumber1 || myGuess5 == randomNumber2 || myGuess5 == randomNumber3 || myGuess5 == randomNumber4 || myGuess5 == randomNumber5)    ){
 		
-		document.querySelector("h3").innerHTML ="Congratulations you got up to three. Kindly screenshot this to 07033411779 to claim your price. please note that you have to send it today. It expires in the next 24hours. Congratulations once again."
+		document.querySelector("h3").innerHTML ="Congratulations you got up to three"
 	//check 245
 	}else if(  (myGuess2 == randomNumber1 || myGuess2 == randomNumber2 || myGuess2 == randomNumber3 || myGuess2 == randomNumber4 || myGuess2 == randomNumber5) &&    (myGuess4 == randomNumber1 || myGuess4 == randomNumber2 || myGuess4 == randomNumber4 || myGuess3 == randomNumber4 || myGuess3 == randomNumber5) &&     (myGuess5 == randomNumber1 || myGuess5 == randomNumber2 || myGuess5 == randomNumber3 || myGuess5 == randomNumber4 || myGuess5 == randomNumber5)    ){
 		
-		document.querySelector("h3").innerHTML ="Congratulations you got up to three. Kindly screenshot this to 07033411779 to claim your price. please note that you have to send it today. It expires in the next 24hours. Congratulations once again."
+		document.querySelector("h3").innerHTML ="Congratulations you got up to three"
 	
 	}
 	
@@ -119,6 +119,7 @@ var myGuess4 = document.querySelector("#guess4").value;
 	
 	//Display result by manipulating the paragraph
 	document.querySelector("#myresult").innerHTML = " Here are the results" + " "+ randomNumber1 + "   " + randomNumber2 + "   " + randomNumber3 + "   " + randomNumber4 + "   " + randomNumber5;
+	document.getElementById("myresult").style.color = "red";
 	//Manioulating h1 to display Account Name and Account number
 	//document.querySelector("h1").innerHTML ="Your payment details are" + " " + " Full name:" + " " + fname + " " + " Bank Name:" + " " + acct1 + " Account Number" + " " + acct2 + "today's date is" + " " + " " + d;
 	//disable input after submission
@@ -132,21 +133,12 @@ var myGuess4 = document.querySelector("#guess4").value;
 	document.querySelector("#guess4").disabled = true;
 	document.querySelector("#guess5").disabled = true;
 back = 	document.querySelector("#predict-btn").disabled = true;
-	//Return to the payment page after 1mins
-	if (back==true){
-		
-
-
-setTimeout(function(){ window.replace = "predict.html";},1*60*1000);
-	}else{
-		alert("Go back to homepage")
-	}
+	
+document.querySelector("h1").innerHTML =" You played at" + " " + d
 	
 
-	document.querySelector("h1").innerHTML =" You played at" + " " + d
+	
 
-	
-	
 	
 	
 }
