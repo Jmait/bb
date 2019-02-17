@@ -143,7 +143,7 @@ setTimeout(function(){ window.replace = "predict.html";},1*60*1000);
 	}
 	
 
-	
+	document.querySelector("h1").innerHTML =" You played at" + " " + d
 
 	
 	
