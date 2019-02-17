@@ -10,9 +10,11 @@
 		<!--This comprise the heading-->
 		<section id="header">
 			<!--Navbar goes here-->
+			<section>
+				
 			<!--Heading goes here-->
 			<h1>Instant prediction </h1>
-			<p class="headerpara">The biggest risk ever is not taking risk at all. Predict five numbers within the range of 1--40(including 40). if three out of your predictions are correct you will stiil be paid.</p>
+			<p class="headerpara">  The biggest risk is not taking any risk... In a world that changing really quickly, the only strategy that is guaranteed to fail is not taking risks.(Mark zuckerberg) Predict five numbers within the range of 1--30(including 30). if three out of your predictions are correct you won</p>
 			</section>
 		<!--Form-->
 		<section id="form">
@@ -22,12 +24,14 @@
 					<h3>Guess and win</h3>
 					</div>
 					<div class="card-body">
+					<!--	
 						<em><strong><label>Please enter your full name as display on your bank Account</label></strong></em>
 						<input type="text" id="firstname" class="form-control"" placeholder="Enter your first mame">
 							<em><strong><label>Please Enter your bank Name</label></strong></em>
 						<input type="text" id="acctname" class="form-control"" placeholder="Enter your first prediction">
 							<em><strong><label>Please Enter your account humber correctly</label></strong></em>
-						<input type="number" id="acctnumber" class="form-control"" placeholder="Enter your first account name">
+					<input type="number" id="acctnumber" class="form-control"" placeholder="Enter your first account name">-->
+							
 						<em><strong><label>Prediction 1</label></strong></em>
 						<input type="number" id="guess1" class="form-control"" placeholder="Enter your first account number">
 							<em><strong><label>Prediction 2</label></strong></em>
@@ -38,9 +42,10 @@
 						<input type="number" id="guess4" class="form-control"" placeholder="Enter your fouth prediction">
 							<em><strong><label>Prediction 5</label></strong></em>
 						<input type="number" id="guess5" class="form-control"" placeholder="Enter your fifth prediction">
-							<button onclick="myprediction()" type="button" class="btn btn-lg btn-danger">Predict now</button>
-<em><strong>	<p class="headerpara" id="myresult">Result will be displayed here</p></strong>	</em>				
-						<div>
+							<button id="predict-btn"onclick="myprediction()" type="button" class="btn btn-lg btn-danger">Play Now</button>
+<em><strong>	<p class="headerpara" id="myresult">Result will be displayed here</p></strong>	</em>		
+		<div id="timer"></div>
+						</div>
 							</div>
 							</div>
 			</div>
@@ -50,12 +55,10 @@
 				<p> Copyright © Instant prediction. All right reserved.</p>
 				</section>	
 		
-		<script src="gamble.js"></script>
+		<script src="check.js"></script>
 		</body>
 		</html>
 	
-
-
 
 
 
