@@ -2,6 +2,7 @@ h1{
 	background-color: maroon;
 	color:white;
 	text-align: center;
+	font-family: 'Montserrat Alternates', sans-serif;
 }
 .coding-image{
 	width: 500px;
@@ -17,7 +18,7 @@ h1{
 	color: white;
 }
 .headerpara{
-	font-size: 2.5rem;
+	font-size: 1.5rem;
 }
 .reg-btn{
 	margin: 15px auto 30px;
