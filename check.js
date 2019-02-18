@@ -264,7 +264,7 @@ var myGuess4 = document.querySelector("#guess4").value;
 	document.querySelector("#guess5").disabled = true;
 back = 	document.querySelector("#predict-btn").disabled = true;
 	
-document.querySelector("h1").innerHTML =" You played at" + " " + d
+document.querySelector("h1").innerHTML =" You played on" + " " + d
 	
 
 	
