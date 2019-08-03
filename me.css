@@ -1,0 +1,33 @@
+body{
+	background-color: navy;
+	font-size: 2rem;
+	margin: 0px;
+}
+
+.heading-one{
+	color: #fff;
+	text-align: center;
+	font-size: 90px;
+}
+
+.heading-paragraph{
+	color: #fff;
+	text-align: center;
+	font-size: 35px;
+	
+}
+
+
+.import-easy{
+	color: black;
+	font-size: 2.5rem;
+	margin: 20px auto 20px;
+	
+}
+
+.import-customer2{
+	position: relative;
+	top: 120px;
+	left: 10px;
+	margin: 20px auto 20px;
+}
