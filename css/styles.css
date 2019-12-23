@@ -1,0 +1,39 @@
+body{
+  margin: 0;
+  font-size: 13px;
+  background-color: #F1F1F1;
+
+}
+.brand{
+  font-size: 1rem;
+  color: #fff;
+  font-weight: bold;
+}
+.description{
+  color: #fff;
+  font-size: 14px;
+  text-align: center;
+}
+.procure-btn{
+  margin: 0 auto 0 auto;
+}
+.link-color{
+  font-weight: bold;
+  color: white;
+}
+.nav-dec{
+  background-color: #009FDF;
+  color: #fff;
+}
+.services-heading{
+  font-size: 17px;
+  text-align: center;
+}
+.card-dec{
+  margin-top: 30px;
+}
+
+.carousel-images{
+  margin: 0;
+  height: 400px;
+}
