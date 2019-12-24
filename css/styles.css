@@ -1,6 +1,6 @@
 body{
   margin: 0;
-  font-size: 13px;
+  font-size: 17px;
   background-color: #F1F1F1;
 
 }
@@ -29,8 +29,14 @@ body{
   font-size: 17px;
   text-align: center;
 }
+.services-header{
+  background-color: #009FDF;
+  color: #fff;
+  font-size: 17px;
+  text-align: center;
+}
 .card-dec{
-  margin-top: 30px;
+  margin: 40px;
 }
 
 .carousel-images{
