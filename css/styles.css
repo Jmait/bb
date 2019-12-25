@@ -33,6 +33,7 @@ body{
   background-color: #009FDF;
   color: #fff;
   font-size: 17px;
+  font-family: 'Montserrat', sans-serif;
   text-align: center;
 }
 .card-dec{
@@ -42,4 +43,17 @@ body{
 .carousel-images{
   margin: 0;
   height: 400px;
+}
+.goods{
+  background-color: green;
+}
+.footer{
+  background-color: #FFFFFF;
+  margin: 30px, auto;
+  font-size: 13px;
+
+}
+.sponsored{
+  margin-bottom: 30px;
+  border-radius: 50px;
 }
