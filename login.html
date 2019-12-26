@@ -1,53 +1,33 @@
-<!Doctype html>
-<html>
-<head>
-		<meta charset="utf-8">
-		<title>Join Us</title>
-		<meta charset="utf-8">
-		<title>Home|Success group</title>
-		<link rel="stylesheet" href="style.css">
-		<link rel="icon" href="favicon.ico">
-		<link href="https://fonts.googleapis.com/css?family=Cardo|Dosis|Merriweather|Open+Sans" rel="stylesheet">
-	<style>
-		body{
-			background-color: maroon;
-		}
-		.login-header{
-				color: yellow;
-				font-weight: normal;
-				font-size: 30px;
-				line-height: 120%;
-		}
-	</style>
-</head>
-<body>
-	<!-- Navigation bar starts here-->
-	<div class="nav-container">
-		<div id="nav-2">
-		<ul>
-			<li><a href="index.html">Home</a></li>
-			<li><a href="">About</a></li>
-			<li><a href="">Contact</a></li>
-			<li><a href="reg.html">Register</a></li>
-			<li><a href="">Login</a></li>
-			
-		</ul>
-	</div>
-	
-	
-	</div>
-	<div class="login-page">
-		<img class="login-image" src="login.png" alt="login">
-			<form action="" method="POST" enctype="text/plain">
-			<label>Email</label><br><br>
-			<input type="email" placeholder="Email"required><br><br>
-			<label>Password</label><br><br>
-			<input type="pwd" placeholder="Password"required><br><br>
-			<input type="submit" value="LOGIN"><br><br>
-			</form>
-		</div>
-	</div>
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Cheapest Order Concept|Register</title>
+    <link rel="icon" href="favicon.ico">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/styles.css">
+  </head>
+  <body>
+  <!--Registration form start here-->
+  <form class="reg-form" action="index.html" method="post">
+    <div class="form-group row">
+    <div class="col-sm-10">
+      <label for="inputEmail3" class="col-form-label">Your Mobile Number</label>
+      <input type="text" class="form-control" placeholder="Enter number in +234" id="inputEmail3"required autofocus>
+    </div>
+  </div>
+  <div class="form-group  row">
+   <div class="col-sm-10">
+     <label for="inputPassword3" class="col-form-label">Password</label><br>
+     <input type="password" class="form-control"  placeholder="Enter password" id="inputPassword3"required>
+   </div>
+   </div>
+        <button type="submit" class="btn btn-primary"name="submit">Login</button>
+        <div class="">
+          <p>Not yet register? <a href="signup.html">Create Account Now</a> or
+           <a href="index.html">Go back</a> </p>
+        </div>
+  </form>
 
-
-
-</body>
+  </body>
+</html>
