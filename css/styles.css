@@ -62,7 +62,9 @@ body{
   background-color: #fff;
   border: 2px;
   border-radius: 50px;
-  margin: 50px auto 0 auto;
+  margin: 100px auto 90px auto;
   width: 680px;
-  padding: 40px;
+  padding: 90px;
+  font-weight: bold;
+
 }
