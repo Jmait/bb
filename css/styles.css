@@ -69,6 +69,13 @@ body{
   font-size: 1.2rem;
   font-weight: bold;
 
+
+}
+.login-details{
+  font-weight: bold;
+  font-size: 1.5rem;
+
+
 }
 .log-btn{
 margin-bottom: 20px;
