@@ -72,7 +72,7 @@ body{
 
 @@media (max-width: 360) {
   .reg-form{
-    background-color: #fff;
+    background-color: green;
     border: 2px;
     color: red;
     margin: 200px auto 200px auto;
